@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB651: Build AI Agents in Teams: 1P, 3P, and Agentic Workflows Hands-On
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Agents are only useful when they can act. Join the Teams Platform team to build one hands-on: scaffold an agent with the Teams SDK, ground it in your data, and give it real reach with Channel Agent + MCP tools. Then go no-code — create an agent-powered workflow in natural language and see how 1P agents like Researcher and Analyst, plus third-party low-code agents, land in Teams. Leave with working code and patterns you can ship. No prior Teams development experience required.
 
 ### 🚀 Getting started
 
