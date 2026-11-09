@@ -122,15 +122,15 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 <table>
 <tr>
     <td align="center"><a href="http://github.com/MSFTRickyCastaneda">
-        <img src="https://github.com/MSFTRickyCastaneda.png" width="100px;" alt="INSERT NAME HERE"/><br />
+        <img src="https://github.com/MSFTRickyCastaneda.png" width="100px;" alt="Ricky Castaneda"/><br />
         <sub><b>Ricky Castaneda</b></sub></a><br />
             <a href="https://github.com/MSFTRickyCastaneda" title="talk">📢</a>
     </td>
-</tr></table>
+</tr>
 <tr>
     <td align="center"><a href="http://github.com/lilyydu">
-        <img src="https://github.com/lilyydu.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>Ricky Castaneda</b></sub></a><br />
+        <img src="https://github.com/lilyydu.png" width="100px;" alt="Lily Du"/><br />
+        <sub><b>Lily Du</b></sub></a><br />
             <a href="https://github.com/lilyydu" title="talk">📢</a>
     </td>
 </tr></table>
