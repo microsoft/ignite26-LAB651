@@ -32,7 +32,7 @@ Fill in the sections below yourself, then:
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥LAB651: Build AI Agents in Teams: 1P, 3P, and Agentic Workflows Hands-On
+## 🔥LAB651: Build AI Agents in Teams
 ### Session description
 
 Agents are only useful when they can act. Join the Teams Platform team to build one hands-on: scaffold an agent with the Teams SDK, ground it in your data, and give it real reach with Channel Agent + MCP tools. Then go no-code — create an agent-powered workflow in natural language and see how 1P agents like Researcher and Analyst, plus third-party low-code agents, land in Teams. Leave with working code and patterns you can ship. No prior Teams development experience required.
@@ -43,10 +43,7 @@ Agents are only useful when they can act. Join the Teams Platform team to build 
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
+1. Open [`instructions/`](instructions/README.md) and follow along in the Skillable lab environment
 
 #### On your own
 
@@ -54,22 +51,38 @@ If you're learning at your own pace:
 
 1. Clone this repository
 2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
+3. Follow the session guidance in [`instructions/`](instructions/README.md)
 
 ### 🎯 Learning outcomes
 
-By the end of this session, you will be able to:
+By the end of this session, you will have:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Built a **Microsoft Teams agent** that evolved from a local prototype into a collaborative teammate capable of working directly within Teams conversations.
+
+- Configured an **Azure OpenAI** LLM resource on **Microsoft Foundry** and integrated the resource into your agnet. 
+
+- Used the **Teams CLI** and **Dev Tunnel** to create, configure, sideload, and test the agent in Microsoft Teams.
+
+- Used **Socket Mode** to connect your agent to Teams during development.
+
+- Enabled collaboration through **Resource-Specific Consent (RSC)** permissions, allowing the agent to participate in channels, read conversation threads, respond to @mentions, and generate contextual summaries and next steps.
+
+- Connected the agent to an external **Contract Management System using MCP**, enabling it to retrieve contract information and create new contract records from natural-language requests.
+
+- Implemented **Adaptive Cards** that transform conversation context into a shared five-item checklist that multiple channel members can interact with and update in real time.
+
+- Explored how Adaptive Card events are orchestrated, rendered, and synchronized across users.
+
+- Added **targeted messaging**, enabling the agent to acknowledge individual users' card interactions privately without notifying other channel members.
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Teams SDK [TypeScript]
+- Microsoft Foundry with Azure OpenAI
+- Teams CLI
+- VSCode
+- Model Context Protcol (MCP)
+- PowerShell
 
 ### 📚 Continue your learning
 
@@ -108,10 +121,17 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="http://github.com/MSFTRickyCastaneda">
+        <img src="https://github.com/MSFTRickyCastaneda.png" width="100px;" alt="INSERT NAME HERE"/><br />
+        <sub><b>Ricky Castaneda</b></sub></a><br />
+            <a href="https://github.com/MSFTRickyCastaneda" title="talk">📢</a>
+    </td>
+</tr></table>
+<tr>
+    <td align="center"><a href="http://github.com/lilyydu">
+        <img src="https://github.com/lilyydu.png" width="100px;" alt="INSERT NAME HERE"/><br />
+        <sub><b>Ricky Castaneda</b></sub></a><br />
+            <a href="https://github.com/lilyydu" title="talk">📢</a>
     </td>
 </tr></table>
 
